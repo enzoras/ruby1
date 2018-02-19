@@ -1,4 +1,4 @@
-#class Card
+class Card
 	attr_accessor :value, :display, :suit, :nbr
 	def initialize (value) 
 	@value = value
